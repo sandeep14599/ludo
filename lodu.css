@@ -1,0 +1,20 @@
+.loginform{
+padding:10px;
+border:1px solid pink;
+float:right;
+border-radius:10px;
+margin-top:10px
+}
+.formheading{
+background-color:red;
+color:white;
+padding:4px;
+text-align:center;
+}
+.sub{
+background-color:blue;
+padding:7px 40px 7px 40px;
+color:white;
+font-weight:bold;
+margin-radius:5px;	
+}
